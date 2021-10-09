@@ -1,1 +1,4 @@
 This is some text for simple download.
+
+This is another commit from local machine.
+
